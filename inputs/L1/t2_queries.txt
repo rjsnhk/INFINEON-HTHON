@@ -1,0 +1,4 @@
+0: Process inputs
+1: Attack on clan_b with 50 RR providing 20 GCO
+125: Produce the current amount of Gold captured
+130: Victory of Codeopia

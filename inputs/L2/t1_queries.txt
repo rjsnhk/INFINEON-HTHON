@@ -1,0 +1,8 @@
+0: Process inputs
+1: Attack on clan_b with 30 RR providing 15 GCO
+6: Attack on clan_c with 70 RR providing 35 GCO
+11: clan_a has been blocked by enemies for 30 seconds
+30: Produce the current amount of Gold captured
+91: Produce the current amount of Gold captured
+115: Produce the current amount of Gold captured
+120: Victory of Codeopia

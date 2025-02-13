@@ -1,0 +1,3 @@
+clan_a: 20/20 available clan_b: 10/10 available
+clan_a: 17/20 available clan_b: 10/10 available
+Gold captured: 10

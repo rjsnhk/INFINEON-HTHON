@@ -1,0 +1,3 @@
+Gold captured: 0
+Gold captured: 15
+Gold captured: 50

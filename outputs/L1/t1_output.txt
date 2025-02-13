@@ -1,0 +1,1 @@
+Usage: java Main <model.xml> <queries.txt>

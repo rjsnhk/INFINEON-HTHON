@@ -1,0 +1,19 @@
+<Kingdom>
+  <Name>base_kingdom</Name>
+  <Clan>
+    <Name>clan_a</Name>
+    <IS_MINE>True</IS_MINE>
+    <MAR>100</MAR>
+    <RT>60</RT>
+    <PTR>2</PTR>
+  </Clan>
+  <Clan>
+    <Name>clan_b</Name>
+    <IS_MINE>False</IS_MINE>
+  </Clan>
+  <Road>
+      <From>clan_a</From>
+      <To>clan_b</To>
+      <Time>10</Time>
+  </Road>
+</Kingdom>

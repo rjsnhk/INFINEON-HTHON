@@ -1,0 +1,6 @@
+0: Process inputs
+1: Attack on clan_c with 5 RR providing 10 GCO
+2: Show the current status of all the clans with mines
+15: Show the current status of all the clans with mines
+28: Produce the current amount of Gold captured
+30: Victory of Codeopia
